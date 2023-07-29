@@ -13,6 +13,6 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
-    "reactive-signals-by-roman": "^1.0.3"
+    "reactive-signals-by-roman": "^1.1.0"
   }
 }
